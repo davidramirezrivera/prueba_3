@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module",
+  "name": "prueba-3",
+  "version": "1.0.0",
+  "description": "prueba tecnica",
+  "main": "prueba_3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "david ramirez <davidramirezrivera2511@gmail.com>",
+  "license": "MIT"
+}
